@@ -4,7 +4,7 @@ Extracted Covid related keywords like omicron/booster from bing news using Selen
 
 ## Getting Started
 
-### Dependancies
+### Dependencies
 
 List of all the libraries you need to run the code.
 
